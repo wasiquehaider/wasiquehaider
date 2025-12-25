@@ -6,7 +6,7 @@
 
 I'm a passionate Web and Mobile Application Developer with a knack for creating seamless and user-friendly applications. My journey in coding began with a curiosity about how things work on the internet, and it has since blossomed into a career I love. I specialize in full-stack development, crafting both the front-end and back-end of applications to ensure they function flawlessly.
 
-- 🔭 I’m currently working with Digital Dividend
+- 🔭 I’m currently working with Dubizzle Labs
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on innovative web and mobile application projects and open source contributions.
 - 💬 Ask me about anything related to Javascript
